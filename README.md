@@ -1,6 +1,5 @@
-# WorkAdventure Map Starter Kit
+# Scalefast's Office Ass A Service
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+Chill and work with your fellow colleagues in your [dedicated map](https://play.workadventu.re/_/global/ass-a-service.github.io/office-aas/map.json) of [WorkAdventure](https://workadventu.re)!
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
-
+Try this and let me know if you want to extend this to the entire company with custom cool maps :)
